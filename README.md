@@ -2,7 +2,7 @@
 
 🎥 Demo & Workflow
 <div align="center">
-  <img src="[https://github.com/user-attachments/assets/ee2e29ef-e9b7-4bf8-8be2-8718c5a16cbb" alt="CrimeStats Demo" width="100%" />
+  <img src="https://github.com/user-attachments/assets/ee2e29ef-e9b7-4bf8-8be2-8718c5a16cbb" alt="CrimeStats Demo" width="100%" />
   <br>
   <p><i>Interaktive Navigation: Von der Karten-Auswahl zur dynamischen Daten-Analyse.</i></p>
 </div>
